@@ -242,7 +242,7 @@ List of Awesome Swift/iOS/Sketch lists:
 * [**UImovement - UI design inspirations**](http://uimovement.com)
 * [**Sindresorhus - A grand list of lists**](https://github.com/sindresorhus/awesome)
 * [**Resource for learning iOS design and Xcode**](https://designcode.io/learn)
-* [**List of tools, frameworks and websites **](https://medium.com/@sebastianbo/my-ios-development-toolkit-2016-ba7601b68085) 
+* [**List of tools, frameworks and websites**](https://medium.com/@sebastianbo/my-ios-development-toolkit-2016-ba7601b68085)
 * [**A list of UI design patterns**](http://pttrns.com/) 
 * [**200 Android and iOS mockups for Sketch**](https://designcode.io/angle-android) 
 * [**Sketch mockups, icons, etc**](https://sketchrepo.com/)
