@@ -2,13 +2,13 @@
 Useful Resources gathered from the Devslopes Discord - channel Useful Resources
 
 AI tools:
-
-•	https://github.com/KevinCoble/AIToolbox - A toolbox of AI modules
+	
+ [https://github.com/KevinCoble/AIToolbox](A toolbox of AI modules)
 
 Animations:
 
-•	https://github.com/sxyx2008/awesome-ios-animation - A list of animations with gifs representing the animations 
-•	https://github.com/ipraba/EPShapes - Create your own polygons with IBDesignable and IBInspectables
+ [https://github.com/sxyx2008/awesome-ios-animation](A list of animations with gifs representing the animations)
+ [https://github.com/ipraba/EPShapes](Create your own polygons with IBDesignable and IBInspectables)
 •	https://github.com/storehouse/Advance - Powerful Animation framework for iOS, TVOS and OSX
 •	https://github.com/cjwirth/awesome-ios-ui - More animations 
 •	https://github.com/kean/Nuke - Loading, caching, processing and preheating images
