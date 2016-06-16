@@ -8,13 +8,12 @@ AI tools:
 Animations:
 
  [**A list of animations with gifs representing the animations**](https://github.com/sxyx2008/awesome-ios-animation)
- 
  [**Create your own polygons with IBDesignable and IBInspectables**](https://github.com/ipraba/EPShapes)
  [**Powerful Animation framework for iOS, TVOS and OSX**](https://github.com/storehouse/Advance)
  [**More animations for ios**](https://github.com/cjwirth/awesome-ios-ui)
  [**Loading, caching, processing and preheating images**](https://github.com/kean/Nuke)
  [**Side menu animation**](https://github.com/romaonthego/RESideMenu)
- [**An easy way to add drop down menu to your app**](https://github.com/PhamBaTho/BTNavigationDropdownMenu) 
+ [**An easy way to add drop down menu to your app**](https://github.com/PhamBaTho/BTNavigationDropdownMenu)
  [**Animations for your textfield**](https://github.com/AlexCatch/ACAnimatedTextField)
  [**A cool animation that simulates a filling effect**](https://github.com/antiguab/BAFluidView)
  [**A repo for Material Design**](https://github.com/CosmicMind/Material)
