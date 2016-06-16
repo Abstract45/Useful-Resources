@@ -37,52 +37,51 @@ APIs:
 
 Apps:
  Apps for designing your prototypes:
-
-	[**JustInMind**](https://justinmind.com)
-	[**Pixate**](https://pixate.com)
-	[**MarvelApp**](https://marvelapp.com)
-	[**Silverflows**](http://silverflows.com)
-	[**Affinity**](https://affinity.serif.com/en-us/)
-	[**Craft**](http://www.invisionapp.com/craft)
-	[**Canva**](http://www.canva.com/)
-	[**Flinto**](https://www.flinto.com)
-	[**Floid**](https://floid.io/)
-	[**Experience-Design**](https://www.adobe.com/products/experience-design.html) 
+ 
+[**JustInMind**](https://justinmind.com)
+[**Pixate**](https://pixate.com)
+[**MarvelApp**](https://marvelapp.com)
+[**Silverflows**](http://silverflows.com)
+[**Affinity**](https://affinity.serif.com/en-us/)
+[**Craft**](http://www.invisionapp.com/craft)
+[**Canva**](http://www.canva.com/)
+[**Flinto**](https://www.flinto.com)
+[**Floid**](https://floid.io/)
+[**Experience-Design**](https://www.adobe.com/products/experience-design.html) 
 
  Apps Web - color:
 
-	[**W3schools color mixer**](http://www.w3schools.com/colors/colors_mixer.asp)
-	[**Color pallete**](http://paletton.com/) 
-	[**Color lover palettes**](http://www.colourlovers.com/palettes).
-	[**Palettes of color from coolors**](https://coolors.co/app/133c55-386fa4-59a5d8-84d2f6-91e5f6 )
-	[**FlatUI colors**](https://flatuicolors.com) 
-	[**Material UI colors**](http://www.materialui.co/colors )
-	[*Flat color palettes***](http://flatcolors.net/palettes)
-	[**Brand colors**](http://brandcolors.net/)
+[**W3schools color mixer**](http://www.w3schools.com/colors/colors_mixer.asp)
+[**Color pallete**](http://paletton.com/) 
+[**Color lover palettes**](http://www.colourlovers.com/palettes).
+[**Palettes of color from coolors**](https://coolors.co/app/133c55-386fa4-59a5d8-84d2f6-91e5f6 )
+[**FlatUI colors**](https://flatuicolors.com) 
+[**Material UI colors**](http://www.materialui.co/colors )
+[*Flat color palettes***](http://flatcolors.net/palettes)
+[**Brand colors**](http://brandcolors.net/)
 	
  Web Apps - Make your urls tiny:
 
-	[**Tiny URL**](http://tinyurl.com/)
-	[**Goolge tiny url**](https://goo.gl/)
-	[**Bitly**](http://bitly.com/)
+[**Tiny URL**](http://tinyurl.com/)
+[**Goolge tiny url**](https://goo.gl/)
+[**Bitly**](http://bitly.com/)
 
  Other Apps:
- 
-	[**An app for storing your icons**](http://geticonjar.com)
-	[**Objective C to Swift converter**](https://objectivec2swift.com)  
-	[**An easy way to create nice screenshots for the App Store**](https://launchkit.io/products/)
-	[**Programmers note book don’t code without it**](http://happenapps.com/#quiver)
-	[**A photo and image sharing app between users of Bluepic**](https://github.com/IBM-Swift/BluePic) 
-	[**Building common UI patterns and interactions with this app**](http://facebook.github.io/origami/examples/)
-	[**Make your app Icons quickly in all sizes with this web app**](http://www.makeappicon.com/)
-	[**Creating cool buttons with this web app**](http://www.buttonoptimizer.com/)
-	[**Image editor for Mac**]()http://www.pixelmator.com 
-	[**Creating animations with this app**](http://animatemate.com)
-	[**Learn to type faster with this app**](https://www.tipp10.com/en/ ) 
-	[**App used to organize your daily tasks (Used to keep track of the development of your app)**](https://trello.com/home)
-	[**Turn your drawings into code**](http://www.paintcodeapp.com) 
-	[**Turn animations to code**](http://www.quartzcodeapp.com/)
-	[**Beautify your json on the web**](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en) 
+[**An app for storing your icons**](http://geticonjar.com)
+[**Objective C to Swift converter**](https://objectivec2swift.com)  
+[**An easy way to create nice screenshots for the App Store**](https://launchkit.io/products/)
+[**Programmers note book don’t code without it**](http://happenapps.com/#quiver)
+[**A photo and image sharing app between users of Bluepic**](https://github.com/IBM-Swift/BluePic) 
+[**Building common UI patterns and interactions with this app**](http://facebook.github.io/origami/examples/)
+[**Make your app Icons quickly in all sizes with this web app**](http://www.makeappicon.com/)
+[**Creating cool buttons with this web app**](http://www.buttonoptimizer.com/)
+[**Image editor for Mac**]()http://www.pixelmator.com 
+[**Creating animations with this app**](http://animatemate.com)
+[**Learn to type faster with this app**](https://www.tipp10.com/en/ ) 
+[**App used to organize your daily tasks (Used to keep track of the development of your app)**](https://trello.com/home)
+[**Turn your drawings into code**](http://www.paintcodeapp.com) 
+[**Turn animations to code**](http://www.quartzcodeapp.com/)
+[**Beautify your json on the web**](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en) 
 
 Articles:
 
@@ -214,38 +213,38 @@ Graphs:
 Guides:
 
  Design Guide:
-	[**Guide for designing your apps friendly to the users thumbs.**](http://scotthurff.com/posts/how-to-design-for-thumbs-in-the-era-of-huge-screens)
-	[**How to design for iOS**](https://medium.com/@rfunk82/designing-for-ios-links-tutorials-and-misc-information-da343ccf0ad9#.kjlf4rt2c)
-	[**Design guidelines for iOS design**](http://iosdesign.ivomynttinen.com) 
-	[**A guide to prototyping with Marvel and Sketch**](http://speckyboy.com/2015/11/30/prototyping-with-marvel-and-sketch/) 
-	[**Creating an image with different design tools**](https://www.raywenderlich.com/124385/best-image-editors-os-x) 
-	[**Principles of Mobile App Design**](https://www.thinkwithgoogle.com/collections/principles-of-mobile-app-design-engage-users-and-drive-conversions.html)
-	[**Creating App Design that works**](https://yalantis.com/blog/how-to-create-app-design-that-works/) 
+[**Guide for designing your apps friendly to the users thumbs.**](http://scotthurff.com/posts/how-to-design-for-thumbs-in-the-era-of-huge-screens)
+[**How to design for iOS**](https://medium.com/@rfunk82/designing-for-ios-links-tutorials-and-misc-information-da343ccf0ad9#.kjlf4rt2c)
+[**Design guidelines for iOS design**](http://iosdesign.ivomynttinen.com) 
+[**A guide to prototyping with Marvel and Sketch**](http://speckyboy.com/2015/11/30/prototyping-with-marvel-and-sketch/) 
+[**Creating an image with different design tools**](https://www.raywenderlich.com/124385/best-image-editors-os-x) 
+[**Principles of Mobile App Design**](https://www.thinkwithgoogle.com/collections/principles-of-mobile-app-design-engage-users-and-drive-conversions.html)
+[**Creating App Design that works**](https://yalantis.com/blog/how-to-create-app-design-that-works/) 
 	
  iOS Guide:
-	[**How to become an iOS developer**](https://medium.com/@rfunk82/becoming-an-ios-developer-links-tutorials-and-misc-information-8b7a4acc1477#.o3bj891fd) 
-	[**Why you should avoid sloppy code**](https://medium.com/@rfunk82/technical-debt-please-don-t-c2485cff1dab#.nr1cdvk63) 
-	[**Style guide for writing in swift**](https://github.com/github/swift-style-guide)
-	[**Ray’s style guide for swift**](https://github.com/raywenderlich/swift-style-guide) 
-	[**A style guide by Hyper**](https://github.com/hyperoslo/iOS-playbook) 
-	[**Deveslops style guide for swift**](https://github.com/jackd942/devslopes-swift-style-guide) 
-	[**A guide to creating skinnable apps**](http://www.mindgrub.com/blog/charles-berlin/skinnable-apps-part-1-ios) 
-	[**How to read and write in a plist file**](http://sweettutos.com/2015/06/03/swift-how-to-read-and-write-into-plist-files/) 
-	[**Guide on grand central dispatch **](https://www.raywenderlich.com/79149/grand-central-dispatch-tutorial-swift-part-1) 
-	[**How you should be using Enums**](https://medium.com/@jbergen/you-ve-been-using-enums-in-swift-all-wrong-b8156df64087#.75trtqwfr) 
-	[**How to create your own code snippets**](https://developer.apple.com/library/ios/recipes/xcode_help-source_editor/chapters/CreatingaCustomCodeSnippet.html) 
-	[**Collection Data Structures in Swift**](https://www.raywenderlich.com/79850/collection-data-structures-swift)
-	[**How to use Map kit for creating simple to advanced map views**](https://www.raywenderlich.com/87008/overlay-views-mapkit-swift-tutorial)
-	[**Core Data guide**](http://code.tutsplus.com/tutorials/core-data-and-swift-core-data-stack--cms-25065) 
-	[**Design patterns in Swift**](https://github.com/ochococo/Design-Patterns-In-Swift)
-	[**Understanding Swift optionals**](http://matteomanferdini.com/wp-content/uploads/2015/11/The-Complete-Guide-to-Understanding-Swift-Optionals.pdf)
+[**How to become an iOS developer**](https://medium.com/@rfunk82/becoming-an-ios-developer-links-tutorials-and-misc-information-8b7a4acc1477#.o3bj891fd) 
+[**Why you should avoid sloppy code**](https://medium.com/@rfunk82/technical-debt-please-don-t-c2485cff1dab#.nr1cdvk63) 
+[**Style guide for writing in swift**](https://github.com/github/swift-style-guide)
+[**Ray’s style guide for swift**](https://github.com/raywenderlich/swift-style-guide) 
+[**A style guide by Hyper**](https://github.com/hyperoslo/iOS-playbook) 
+[**Deveslops style guide for swift**](https://github.com/jackd942/devslopes-swift-style-guide) 
+[**A guide to creating skinnable apps**](http://www.mindgrub.com/blog/charles-berlin/skinnable-apps-part-1-ios) 
+[**How to read and write in a plist file**](http://sweettutos.com/2015/06/03/swift-how-to-read-and-write-into-plist-files/) 
+[**Guide on grand central dispatch **](https://www.raywenderlich.com/79149/grand-central-dispatch-tutorial-swift-part-1) 
+[**How you should be using Enums**](https://medium.com/@jbergen/you-ve-been-using-enums-in-swift-all-wrong-b8156df64087#.75trtqwfr) 
+[**How to create your own code snippets**](https://developer.apple.com/library/ios/recipes/xcode_help-source_editor/chapters/CreatingaCustomCodeSnippet.html) 
+[**Collection Data Structures in Swift**](https://www.raywenderlich.com/79850/collection-data-structures-swift)
+[**How to use Map kit for creating simple to advanced map views**](https://www.raywenderlich.com/87008/overlay-views-mapkit-swift-tutorial)
+[**Core Data guide**](http://code.tutsplus.com/tutorials/core-data-and-swift-core-data-stack--cms-25065) 
+[**Design patterns in Swift**](https://github.com/ochococo/Design-Patterns-In-Swift)
+[**Understanding Swift optionals**](http://matteomanferdini.com/wp-content/uploads/2015/11/The-Complete-Guide-to-Understanding-Swift-Optionals.pdf)
 
  Server Guides:
 
-	[**Migrating from parse to MongoDB**](http://www.appcoda.com/parse-server-migration/?) 
-	[**How to install parse on Digital ocean tutorial**](http://www.madeupbypeople.com/blog/2016/2/24/installing-parse-server-on-digital-ocean-tutorial)
-	[**Websocket client library in Swift for iOS and OSX**](https://github.com/daltoniam/starscream) 
- 	[**Perfect Server Tutorials and get started with Server-Side Swift here**](https://github.com/PerfectlySoft/Perfect/issues/164)
+[**Migrating from parse to MongoDB**](http://www.appcoda.com/parse-server-migration/?) 
+[**How to install parse on Digital ocean tutorial**](http://www.madeupbypeople.com/blog/2016/2/24/installing-parse-server-on-digital-ocean-tutorial)
+[**Websocket client library in Swift for iOS and OSX**](https://github.com/daltoniam/starscream) 
+[**Perfect Server Tutorials and get started with Server-Side Swift here**](https://github.com/PerfectlySoft/Perfect/issues/164)
 
 Hosting Websites:
 
