@@ -98,7 +98,8 @@ Useful Resources gathered from the Devslopes Discord - channel Useful Resources
 * [**How to use css in your apps**](http://classykit.github.io/Classy/getting-started/)
 * [**Awesome article on generics - briefly explaining generics**](http://blog.teamtreehouse.com/introduction-learn-power-swift-generics)
 * [**Building slack bots in swift**](https://medium.com/@pvzig/building-slack-bots-in-swift-b99e243e444c#.35g9cbw07) 
-* [**Beginners guide to creating a REST API**](http://www.andrewhavens.com/posts/20/beginners-guide-to-creating-a-rest-api/) 
+* [**Beginners guide to creating a REST API**](http://www.andrewhavens.com/posts/20/beginners-guide-to-creating-a-rest-api/)
+* [**Importance of Code Reviews**](https://www.sitepoint.com/the-importance-of-code-reviews/)
 
 ####Assets:
 * [**Art assets for Game developers**](http://letsmakegames.org/resources/art-assets-for-game-developers/)
@@ -128,6 +129,7 @@ Useful Resources gathered from the Devslopes Discord - channel Useful Resources
 * [**An e-book on Framer (design)**](https://framerbook.com)
 * [**TDD iOS Development with Swift**](https://www.packtpub.com/application-development/test-driven-ios-development-swift)  
 * [**Everything you need to find a job as a UX designer**](https://www.designernews.co/market/234-the-uxd-book) 
+* [**Apple Education: App development with Swift**](https://itunes.apple.com/nl/book/app-development-with-swift/id1118575552?l=en&mt=11)
 
 ####Bundle of apps:
 * [**A git repo with 30 days worth of swift projects with one project each day**](https://github.com/allenwong/30DaysofSwift)
@@ -170,6 +172,7 @@ Useful Resources gathered from the Devslopes Discord - channel Useful Resources
 * [**Source foundry fonts**](http://sourcefoundry.org/hack/)
 * [**Source code pro**](https://github.com/adobe-fonts/source-code-pro)
 * [**Comic fonts**](http://blambot.com/)
+* [**Google Fonts**](https://fonts.google.com/)
 
 ####Game Development:
 * [**Creating your 3D games with Scene kit**](https://www.raywenderlich.com/128668/scene-kit-tutorial-with-swift-part-1) 
@@ -212,6 +215,7 @@ Useful Resources gathered from the Devslopes Discord - channel Useful Resources
  * [**Core Data guide**](http://code.tutsplus.com/tutorials/core-data-and-swift-core-data-stack--cms-25065) 
  * [**Design patterns in Swift**](https://github.com/ochococo/Design-Patterns-In-Swift)
  * [**Understanding Swift optionals**](http://matteomanferdini.com/wp-content/uploads/2015/11/The-Complete-Guide-to-Understanding-Swift-Optionals.pdf)
+ * [**OOD Principles in Swift**](https://github.com/ochococo/OOD-Principles-In-Swift)
 
 * Server Guides:
  * [**Migrating from parse to MongoDB**](http://www.appcoda.com/parse-server-migration/?) 
@@ -282,6 +286,10 @@ Hosting Websites:
 * [**Vapor**](https://github.com/qutheory/vapor)
 * [**Zewo**](https://github.com/Zewo/Zewo)
 * [**Perfect**](http://perfect.org)
+ 
+ ####Siri Kit:
+* [**Tutorial for Siri - Xcode Beta 8.1**](http://jamesonquave.com/blog/adding-siri-to-ios-10-apps-in-swift-tutorial/)
+
 
 ####Shortcuts:
 * [**Shortcut keys for Affinity.**](https://affinity.serif.com/blog/new-keyboard-shortcut-cheat-sheets/) 
