@@ -67,7 +67,7 @@ Useful Resources gathered from the Devslopes Discord - channel Useful Resources
  * [**Building common UI patterns and interactions with this app**](http://facebook.github.io/origami/examples/)
  * [**Make your app Icons quickly in all sizes with this web app**](http://makeappicon.com/)
  * [**Creating cool buttons with this web app**](http://buttonoptimizer.com/)
- * [**Image editor for Mac**](/mac )
+ * [**Image editor for Mac**](http://www.pixelmator.com/mac )
  * [**Creating animations with this app**](http://animatemate.com)
  * [**Learn to type faster with this app**](https://www.tipp10.com/en/ ) 
  * [**App used to organize your daily tasks (Used to keep track of the development of your app)**](https://trello.com/home)
