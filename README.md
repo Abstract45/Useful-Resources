@@ -16,12 +16,12 @@ Useful Resources gathered from the Devslopes Discord - channel Useful Resources
 * [**A cool animation that simulates a filling effect**](https://github.com/antiguab/BAFluidView)
 * [**A repo for Material Design**](https://github.com/CosmicMind/Material)
 * [**Circle menu animation**](https://github.com/Ramotion/circle-menu)
-* [**Customize your Alerts with this repo**](https://github.com/stakes/JSSAlertView)
+* [**Customize your Alerts with this repo**](https://github.com/openstakes/JSSAlertView)
 * [**Another repo for customizing your Alerts**](https://github.com/vikmeup/SCLAlertView-Swift)
 * [**Freaking awesome folding cell**](https://github.com/Ramotion/folding-cell)
 * [**Really cool animated tab bar animation**](https://github.com/Ramotion/animated-tab-bar) 
 * [**Customized picker views**](https://github.com/Akkyie/AKPickerView-Swift) 
-* [**A cool framework for creating a  picker view of images**](https://github.com/larcus94/ImagePickerSheetController)
+* [**A cool framework for creating a  picker view of images**](https://github.com/lbrndnr/ImagePickerSheetController)
 * [**MengTo's (author of Designcode) spring animation**](https://github.com/MengTo/Spring) 
 * [**Cool animation of a colourful hex shape**](https://www.weheartswift.com/pi-day-rainbow-hex-grid/) 
 * [**A star rating control fro iOS and tvOS**](https://github.com/marketplacer/Cosmos) 
@@ -32,13 +32,13 @@ Useful Resources gathered from the Devslopes Discord - channel Useful Resources
 
 ####Apps:
 * Apps for designing your prototypes:
- * [**JustInMind**](https://justinmind.com)
+ * [**JustInMind**](https://www.justinmind.com/)
  * [**Pixate**](https://pixate.com)
  * [**MarvelApp**](https://marvelapp.com)
  * [**Silverflows**](http://silverflows.com)
  * [**Affinity**](https://affinity.serif.com/en-us/)
- * [**Craft**](http://www.invisionapp.com/craft)
- * [**Canva**](http://www.canva.com/)
+ * [**Craft**](https://www.invisionapp.com/craft)
+ * [**Canva**](https://www.canva.com/)
  * [**Flinto**](https://www.flinto.com)
  * [**Floid**](https://floid.io/)
  * [**Experience-Design**](https://www.adobe.com/products/experience-design.html) 
@@ -49,7 +49,7 @@ Useful Resources gathered from the Devslopes Discord - channel Useful Resources
  * [**Color lover palettes**](http://www.colourlovers.com/palettes).
  * [**Palettes of color from coolors**](https://coolors.co/app/133c55-386fa4-59a5d8-84d2f6-91e5f6 )
  * [**FlatUI colors**](https://flatuicolors.com) 
- * [**Material UI colors**](http://www.materialui.co/colors )
+ * [**Material UI colors**](http://materialui.co/colors )
  * [**Flat color palettes**](http://flatcolors.net/palettes)
  * [**Brand colors**](http://brandcolors.net/)
 	
@@ -65,9 +65,9 @@ Useful Resources gathered from the Devslopes Discord - channel Useful Resources
  * [**Programmers note book don’t code without it**](http://happenapps.com/#quiver)
  * [**A photo and image sharing app between users of Bluepic**](https://github.com/IBM-Swift/BluePic) 
  * [**Building common UI patterns and interactions with this app**](http://facebook.github.io/origami/examples/)
- * [**Make your app Icons quickly in all sizes with this web app**](http://www.makeappicon.com/)
- * [**Creating cool buttons with this web app**](http://www.buttonoptimizer.com/)
- * [**Image editor for Mac**](http://www.pixelmator.com )
+ * [**Make your app Icons quickly in all sizes with this web app**](http://makeappicon.com/)
+ * [**Creating cool buttons with this web app**](http://buttonoptimizer.com/)
+ * [**Image editor for Mac**](/mac )
  * [**Creating animations with this app**](http://animatemate.com)
  * [**Learn to type faster with this app**](https://www.tipp10.com/en/ ) 
  * [**App used to organize your daily tasks (Used to keep track of the development of your app)**](https://trello.com/home)
@@ -104,7 +104,7 @@ Useful Resources gathered from the Devslopes Discord - channel Useful Resources
 ####Assets:
 * [**Art assets for Game developers**](http://letsmakegames.org/resources/art-assets-for-game-developers/)
 * [**Free game art from open game art**](http://opengameart.org/)
-* [**Free stock photos from pexels**](http://www.pexels.com)
+* [**Free stock photos from pexels**](https://www.pexels.com/)
 * [**Free stock user photos from randomuser**](https://randomuser.me/photos) 
 * [**Free icons, stock photos and illustrations from pixabay**](https://pixabay.com/)
 * [**Check this out you can make your own 8 bit sounds**](http://www.bfxr.net/) 
@@ -152,7 +152,7 @@ Useful Resources gathered from the Devslopes Discord - channel Useful Resources
 
 ####Clubs / Events:
 * [**A virtual event for developers. A liveStream event**](https://hacksummit.org)
-* [**Swift Algorithm club, where you will find popular algorithms and data structures in swift**](https://github.com/hollance/swift-algorithm-club)   
+* [**Swift Algorithm club, where you will find popular algorithms and data structures in swift**](https://github.com/raywenderlich/swift-algorithm-club)   
 * [**Solving complex math challenges through programming**](https://projecteuler.net/) 
 * [**Challenge yourself and make your coding better with these programming challenges**](https://www.hackerrank.com/) 
 
@@ -193,7 +193,7 @@ Useful Resources gathered from the Devslopes Discord - channel Useful Resources
  * [**Guide for designing your apps friendly to the users thumbs.**](http://scotthurff.com/posts/how-to-design-for-thumbs-in-the-era-of-huge-screens)
  * [**How to design for iOS**](https://medium.com/@rfunk82/designing-for-ios-links-tutorials-and-misc-information-da343ccf0ad9#.kjlf4rt2c)
  * [**Design guidelines for iOS design**](http://iosdesign.ivomynttinen.com) 
- * [**A guide to prototyping with Marvel and Sketch**](http://speckyboy.com/2015/11/30/prototyping-with-marvel-and-sketch/) 
+ * [**A guide to prototyping with Marvel and Sketch**](https://speckyboy.com/2015/11/30/prototyping-with-marvel-and-sketch/) 
  * [**Creating an image with different design tools**](https://www.raywenderlich.com/124385/best-image-editors-os-x) 
  * [**Principles of Mobile App Design**](https://www.thinkwithgoogle.com/collections/principles-of-mobile-app-design-engage-users-and-drive-conversions.html)
  * [**Creating App Design that works**](https://yalantis.com/blog/how-to-create-app-design-that-works/) 
@@ -210,7 +210,7 @@ Useful Resources gathered from the Devslopes Discord - channel Useful Resources
  * [**Guide on grand central dispatch**](https://www.raywenderlich.com/79149/grand-central-dispatch-tutorial-swift-part-1) 
  * [**How you should be using Enums**](https://medium.com/@jbergen/you-ve-been-using-enums-in-swift-all-wrong-b8156df64087#.75trtqwfr) 
  * [**How to create your own code snippets**](https://developer.apple.com/library/ios/recipes/xcode_help-source_editor/chapters/CreatingaCustomCodeSnippet.html) 
- * [**Collection Data Structures in Swift**](https://www.raywenderlich.com/79850/collection-data-structures-swift)
+ * [**Collection Data Structures in Swift**](https://www.raywenderlich.com/123100/collection-data-structures-swift-2)
  * [**How to use Map kit for creating simple to advanced map views**](https://www.raywenderlich.com/87008/overlay-views-mapkit-swift-tutorial)
  * [**Core Data guide**](http://code.tutsplus.com/tutorials/core-data-and-swift-core-data-stack--cms-25065) 
  * [**Design patterns in Swift**](https://github.com/ochococo/Design-Patterns-In-Swift)
@@ -264,12 +264,12 @@ Hosting Websites:
 * [**Reference sheet for Design patterns**](http://www.blackwasp.co.uk/GangOfFour.aspx) 
 * [**Swift - Cheat sheet**](https://github.com/iwasrobbed/Swift-CheatSheet)
 * [**Using multiple cloud services with one library**](https://github.com/CloudRail/cloudrail-si-ios-sdk) 
-* [**Organize your code snippets with this app**](http://gistboxapp.com) 
+* [**Organize your code snippets with this app**](http://www.gistboxapp.com) 
 * [**Design and prototype customized UI with IBAnimatable**](https://github.com/JakeLin/IBAnimatable/) 
 
 ####Plugins:
 * [**Sketch plugin for creating designs with auto layout constraints**](https://github.com/matt-curtis/Fluid-for-Sketch) 
-* [**10 productivity plugins for Sketch**](http://www.sitepoint.com/best-plugins-for-sketch-app/) 
+* [**10 productivity plugins for Sketch**](https://www.sitepoint.com/best-plugins-for-sketch-app/) 
 * [**Allows you to easily copy styles from one layer to another**](https://github.com/ryanmclaughlin/styledrop) 
 * [**Git sketch plugin**](http://mathieudutour.github.io/git-sketch-plugin/) 
 * [**It lets you discover/install plugins and color schemes for Xcode**](http://alcatraz.io/) 
@@ -282,7 +282,7 @@ Hosting Websites:
 * [**A wrapper around the security framework for simple encryption/decryption operations**](https://github.com/henrinormak/Heimdall)
 
 ####Server side swift:
-* [**Kitura**](https://developer.ibm.com/swift/products/kitura/)
+* [**Kitura**](https://developer.ibm.com/swift/kitura)
 * [**Vapor**](https://github.com/qutheory/vapor)
 * [**Zewo**](https://github.com/Zewo/Zewo)
 * [**Perfect**](http://perfect.org)
