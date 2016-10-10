@@ -267,13 +267,62 @@ Hosting Websites:
 * [**Organize your code snippets with this app**](http://www.gistboxapp.com) 
 * [**Design and prototype customized UI with IBAnimatable**](https://github.com/JakeLin/IBAnimatable/) 
 
-####Plugins:
+####Plugins - Sketch:
 * [**Sketch plugin for creating designs with auto layout constraints**](https://github.com/matt-curtis/Fluid-for-Sketch) 
 * [**10 productivity plugins for Sketch**](https://www.sitepoint.com/best-plugins-for-sketch-app/) 
 * [**Allows you to easily copy styles from one layer to another**](https://github.com/ryanmclaughlin/styledrop) 
 * [**Git sketch plugin**](http://mathieudutour.github.io/git-sketch-plugin/) 
 * [**It lets you discover/install plugins and color schemes for Xcode**](http://alcatraz.io/) 
 * [**Sketch plugin that allows creates circular graphics**](https://github.com/design4use/gb-sketch-segmentcircle) 
+
+####Plugins - Xcode:
+* [**Alcatraz package manager for Xcode to Install plugins**](https://github.com/alcatraz/Alcatraz)
+* [**Allows usage of SwiftLint from the edit menu for enforcing code style and conventions.**](https://github.com/ypresto/SwiftLintXcode)
+* [**Allows entry of code snippets using trigger strings.**](https://github.com/hunk3000/HKSnippet)
+* [**Allows easy sharing of color palettes between code and interface builder. **](https://github.com/Sephiroth87/Crayons) 
+* [**Automatically delete the current project's DerivedData directories**](https://github.com/dealforest/Cichlid)
+* [**Adds clickable links to the Xcode debugger that automatically jump to to the corresponding section of code that generated a log message.**](https://github.com/krzysztofzablocki/KZLinkedConsole)
+* [**A plugin that allows you to highlight and then execute a section of code within the Xcode code editor.**](https://github.com/wangshengjia/VWInstantRun)
+* [**An Xcode plugin that allows for basic refactoring of Swift code enabling renaming of variables, and enums.**](https://github.com/johnno1962/Refactorator)
+* [**Enables Generation of descriptive Objective-C dependency charts.**](https://github.com/kimsungwhee/KSHObjcUML)
+* [**Allows for visual tweaking of CAMediaTimingFunction within the Xcode code editor.**](https://github.com/keefo/CATweaker)
+* [**A plugin enabling collaborative code editing using Bonjour.**](http://finestructure.co/copilot)
+* [**Automatically selects all targets when a new file is added to Xcode.**](https://github.com/poboke/AllTargets)
+* [**Allows you to run and stop projects on multiple physical iOS devices.**](https://github.com/kitschpatrol/KPRunEverywhereXcodePlugin)
+* [**An Xcode plugin for automatic on-device testing allowing you to record and playback macros that run on device.**](https://github.com/johnno1962/Remote)
+* [**A configurable Xcode plugin that generates missing image assets based on missing sizes.**](https://github.com/rickytan/RTImageAssets)
+* [**A configurable plugin allowing you to automatically hide the debugger and utilities panels when unneeded.**](https://github.com/chaingarden/DBSmartPanels/)
+* [**A plugin adding many hot-keyed commands for easier selection, duplication, and deletion of code.**](https://github.com/zenangst/MarvinXcode)
+* [**A plugin that enhances the debug console with output filtering that can work in real time and supports regular expressions.**](https://github.com/yuhua-chen/MCLog)
+* [**A plugin for easy visualization of modified and changed code based on the projects Git repo.**](https://github.com/johnno1962/GitDiff)
+* [**A plugin allowing you to quickly turn a string into a localizable string bringing up a popup where you can specify the localized string’s key on hotkey press.**](https://github.com/viniciusmo/extract-localizable-string-plugin-xcode)
+* [**A plugin allowing you to bring up a popup for quickly creating import statements from anywhere within your code.**](https://github.com/markohlebar/Peckham)
+* [**A plugin allowing you to easily identify unused imports within your code bringing them up as warnings on compilation.**](https://github.com/jcavar/xcfui)
+* [**A plugin allowing you to easily browse your application’s memory  in a nice UIWebView based interface with filtering and searching capabilities.**](https://github.com/johnno1962/Xprobe)
+* [**A plugin adding many nice features such as allowing you to extract method declarations from your implementation to paste in the header file, highlight based on regex, paste lines while preserving code formatting and more.**](https://github.com/fortinmike/XcodeBoost)
+* [**A plugin allowing you to display full content in the Xcode issue navigator**](https://github.com/neonichu/BBUFullIssueNavigator)
+* [**A plugin that automatically hides the debugger when you start typing within the code editor.**](https://github.com/neonichu/BBUDebuggerTuckAway)
+* [**Allows you to quickly search through Xcode projects using keywords allowing you to quickly search and navigate through an Xcode project.**](https://github.com/macoscope/CodePilot)
+* [**A plugin that allows you to format code using the Clang Format tool allowing you to chose from a number of preset configurations or your own.**](https://github.com/travisjeffery/ClangFormat-Xcode)
+* [**A plugin that provides an interface allowing you to jump through todo’s, within your code labeled by your comments.**](https://github.com/trawor/XToDo)
+* [**A plugin that allows you enabling display of images and hyperlinks within your code using a special markup syntax.**](https://github.com/mikr/XcAddedMarkup)
+* [**A plugin for aligning your code automatically in user definable ways with a number of sample alignments such as align to first eqals included.**](https://github.com/qfish/XAlign)
+* [**An Xcode plugin allowing you to quickly jump to the corresponding location for a line or block of code on Github or Bitbucket.**](https://github.com/larsxschneider/ShowInGitHub)
+* [**A plugin for working with Cocoapods providing easy downloading and updating of CocoaPods, podfile editing with code completion, and CocoaPods output in the console.**](https://github.com/ricobeck/KFCocoaPodsPlugin)
+* [**Creates a minimap of your code adjusting the color of the currently visible area of the editor so you can quickly see where you are within your code.**](https://github.com/stefanceriu/SCXcodeMiniMap)
+* [**Allows you to inject code in real-time to an app running in the simulator or device  so that you can tweak your code without recompiling.**](http://injectionforxcode.com/)
+* [**Adds many Vim key bindings to Xcode.**](https://github.com/JugglerShu/XVim)
+* [**Enables easy use of the Uncrustify code beautification tool.**](https://github.com/benoitsan/BBUncrustifyPlugin-Xcode)
+* [**Provides a neat interface directly within Xcode to make working with NSLocalizedString easier.**](https://github.com/questbeat/Lin)
+* [**Provides auto completion for UIImage imageNamed: within your code by scanning through image files within your workspace.**](https://github.com/ksuther/KSImageNamed-Xcode)
+* [**Provides a call out bubble in which you can work with an un-escaped version of a string.**](https://github.com/holtwick/HOStringSense-for-Xcode)
+* [**Allows you to color code messages in the debugging console so you can make errors stand out and easily separate different messages from differing parts of your code.**](https://github.com/robbiehanson/XcodeColors)
+* [**Allows you to visualize your auto-resizing masks within code.**](https://github.com/garnett/AutoresizeMask-for-Xcode)
+
+
+
+
+
 
 ####Recording tools:
 * [**Record your screencast with this app**](http://recordit.co/?ref=producthunt) 
