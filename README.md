@@ -279,7 +279,7 @@ Hosting Websites:
 * [**Alcatraz package manager for Xcode to Install plugins**](https://github.com/alcatraz/Alcatraz)
 * [**Allows usage of SwiftLint from the edit menu for enforcing code style and conventions.**](https://github.com/ypresto/SwiftLintXcode)
 * [**Allows entry of code snippets using trigger strings.**](https://github.com/hunk3000/HKSnippet)
-* [**Allows easy sharing of color palettes between code and interface builder. **](https://github.com/Sephiroth87/Crayons) 
+* [**Allows easy sharing of color palettes between code and interface builder.**](https://github.com/Sephiroth87/Crayons) 
 * [**Automatically delete the current project's DerivedData directories**](https://github.com/dealforest/Cichlid)
 * [**Adds clickable links to the Xcode debugger that automatically jump to to the corresponding section of code that generated a log message.**](https://github.com/krzysztofzablocki/KZLinkedConsole)
 * [**A plugin that allows you to highlight and then execute a section of code within the Xcode code editor.**](https://github.com/wangshengjia/VWInstantRun)
