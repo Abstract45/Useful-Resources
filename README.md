@@ -1,10 +1,10 @@
 # Useful-Resources
 Useful Resources gathered from the Devslopes Discord - channel Useful Resources
 
-####AI tools:
+#### AI tools:
 * [**A toolbox of AI modules**](https://github.com/KevinCoble/AIToolbox)
 
-####Animations:
+#### Animations:
 * [**A list of animations with gifs representing the animations**](https://github.com/sxyx2008/awesome-ios-animation)
 * [**Create your own polygons with IBDesignable and IBInspectables**](https://github.com/ipraba/EPShapes)
 * [**Powerful Animation framework for iOS, TVOS and OSX**](https://github.com/storehouse/Advance)
@@ -26,11 +26,11 @@ Useful Resources gathered from the Devslopes Discord - channel Useful Resources
 * [**Cool animation of a colourful hex shape**](https://www.weheartswift.com/pi-day-rainbow-hex-grid/) 
 * [**A star rating control fro iOS and tvOS**](https://github.com/marketplacer/Cosmos) 
 
-####APIs:
+#### APIs:
 * [**Top 10 weather APIs.**](http://www.programmableweb.com/news/top-10-weather-apis/analysis/2014/11/13) 
 * [**App that gives you offline access to different API documentations**](https://itunes.apple.com/us/app/dash-3-api-docs-snippets./id449589707?mt=12) 
 
-####Apps:
+#### Apps:
 * Apps for designing your prototypes:
  * [**JustInMind**](https://www.justinmind.com/)
  * [**Pixate**](https://pixate.com)
@@ -75,7 +75,7 @@ Useful Resources gathered from the Devslopes Discord - channel Useful Resources
  * [**Turn animations to code**](http://www.quartzcodeapp.com/)
  * [**Beautify your json on the web**](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en) 
 
-####Articles:
+#### Articles:
 * [**Server side swift article**](https://medium.com/@LogMaestro/server-side-swift-c965b7ebe6e7#.2ynpij4g8)
 * [**Q and A done by Mark Price on Quora**](https://www.quora.com/profile/Mark-Price-6) 
 * [**Using Google places autocomplete api with google map sdk**](http://sweettutos.com/2015/09/30/how-to-use-the-google-places-autocomplete-api-with-google-maps-sdk-on-ios/) 
@@ -101,7 +101,7 @@ Useful Resources gathered from the Devslopes Discord - channel Useful Resources
 * [**Beginners guide to creating a REST API**](http://www.andrewhavens.com/posts/20/beginners-guide-to-creating-a-rest-api/)
 * [**Importance of Code Reviews**](https://www.sitepoint.com/the-importance-of-code-reviews/)
 
-####Assets:
+#### Assets:
 * [**Art assets for Game developers**](http://letsmakegames.org/resources/art-assets-for-game-developers/)
 * [**Free game art from open game art**](http://opengameart.org/)
 * [**Free stock photos from pexels**](https://www.pexels.com/)
@@ -114,12 +114,12 @@ Useful Resources gathered from the Devslopes Discord - channel Useful Resources
 * [**Icons, app designs, mockups etc**](http://freebiesbug.com)
 
 
-####Autolayout:
+#### Autolayout:
 * [**Scaling your images on different devices**](http://roadfiresoftware.com/2015/04/how-to-scale-an-image-view-based-on-device-size-with-auto-layout-in-interface-builder/) 
 * [**Adding constraints programatically**](http://rshankar.com/how-to-programatically-add-autolayout-constraints/)  
 * [**Guide to Auto layout from Wenderlich**](https://www.raywenderlich.com/64392/video-tutorial-beginning-auto-layout)  
 
-####Books:
+#### Books:
 * [**UI/UX + coding your designs in swift**](https://designcode.io/)
 * [**UI/UX free e-books**](https://studio.uxpin.com/ebooks/) 
 * [**How to create cool animations in your apps**](https://www.raywenderlich.com/store/ios-animations-by-tutorials) 
@@ -131,16 +131,16 @@ Useful Resources gathered from the Devslopes Discord - channel Useful Resources
 * [**Everything you need to find a job as a UX designer**](https://www.designernews.co/market/234-the-uxd-book) 
 * [**Apple Education: App development with Swift**](https://itunes.apple.com/nl/book/app-development-with-swift/id1118575552?l=en&mt=11)
 
-####Bundle of apps:
+#### Bundle of apps:
 * [**A git repo with 30 days worth of swift projects with one project each day**](https://github.com/allenwong/30DaysofSwift)
 * [**100 days of swift. 40 projects from beginning to more complicated**](http://samvlu.com/index.html)
 * [**15 days of Animation with swift**](https://github.com/larrynatalicio/15DaysofAnimationsinSwift) 
 
-####Camera:
+#### Camera:
 * [**An Objective C framework for customizing your iOS Camera**](https://github.com/GabrielAlva/Cool-iOS-Camera) 
 * [**Creating panoramic shots with swift**](https://github.com/iSame7/Panoramic)
 
-####Courses:
+#### Courses:
 * [**(Java) A course that covers Algorithms and data structures, part 1 covers basic data types, sorting and searching algorithms**](https://www.coursera.org/course/algs4partI) 
 * [**(Java) A continuation of the first part of algorithms and data structures, part 2 covers applications and scientific analysis of Java implementations**](https://www.coursera.org/course/algs4partII) 
 * [**Learn how to type faster “Become a typing hero” - Peter**](http://www.typing-lessons.org) 
@@ -150,45 +150,45 @@ Useful Resources gathered from the Devslopes Discord - channel Useful Resources
 * [**How to Start a startup**](https://itunes.apple.com/us/course/how-to-start-a-startup/id951932247)
 * [**Course on ethical Hacking**](https://www.cybrary.it/course/ethical-hacking/) 
 
-####Clubs / Events:
+#### Clubs / Events:
 * [**A virtual event for developers. A liveStream event**](https://hacksummit.org)
 * [**Swift Algorithm club, where you will find popular algorithms and data structures in swift**](https://github.com/raywenderlich/swift-algorithm-club)   
 * [**Solving complex math challenges through programming**](https://projecteuler.net/) 
 * [**Challenge yourself and make your coding better with these programming challenges**](https://www.hackerrank.com/) 
 
-####Debugging:
+#### Debugging:
 * [**In-app debugging tool**](https://github.com/Flipboard/FLEX) 
 
-####Downloading and caching images:
+#### Downloading and caching images:
 * [**Kingfisher**](https://github.com/onevcat/Kingfisher)
 
-####Forums/Blogs to Follow:
+#### Forums/Blogs to Follow:
 * [**Sub-reddit for Swift, a lot of cool projects and  articles are posted here**](https://www.reddit.com/r/swift) 
 * [**iOS Dev weekly**](http://iosdevweekly.com/)
 * [**Quality coding**](http://qualitycoding.org/)
 * [**NSHipster**](http://nshipster.com/)
 
-####Fonts:
+#### Fonts:
 * [**Source foundry fonts**](http://sourcefoundry.org/hack/)
 * [**Source code pro**](https://github.com/adobe-fonts/source-code-pro)
 * [**Comic fonts**](http://blambot.com/)
 * [**Google Fonts**](https://fonts.google.com/)
 
-####Game Development:
+#### Game Development:
 * [**Creating your 3D games with Scene kit**](https://www.raywenderlich.com/128668/scene-kit-tutorial-with-swift-part-1) 
 
-####Generic data creator:
+#### Generic data creator:
 * [**Generate data**](http://generatedata.com/)
 
-####Git:
+#### Git:
 * [**A guide to git**](http://rypress.com/tutorials/git/index)
 * [**Learn git through this paid tutorial**](https://www.codecademy.com/learn/learn-git)
 * [**How to model your git branches**](http://nvie.com/posts/a-successful-git-branching-model/) 
 
-####Graphs:
+#### Graphs:
 * [**A repo that allows you to add graphs to your apps**](https://github.com/CosmicMind/Graph)
 
-####Guides:
+#### Guides:
 * Design Guide:
  * [**Guide for designing your apps friendly to the users thumbs.**](http://scotthurff.com/posts/how-to-design-for-thumbs-in-the-era-of-huge-screens)
  * [**How to design for iOS**](https://medium.com/@rfunk82/designing-for-ios-links-tutorials-and-misc-information-da343ccf0ad9#.kjlf4rt2c)
@@ -226,7 +226,7 @@ Useful Resources gathered from the Devslopes Discord - channel Useful Resources
 Hosting Websites:
 * [**For hosting images on the cloud**](http://cloudinary.com)
 
-####Icons:
+#### Icons:
 * [**Entypo - A list of vectors**](http://www.entypo.com)  
 * [**Webalys - 4000 material design Icons**](http://www.webalys.com/nova/) 
 * [**Invision -168 Custom Icons**](http://blog.invisionapp.com/download-168-custom-interface-icons-free/) 
@@ -237,7 +237,7 @@ Hosting Websites:
 * [**App sumo - 2300+ clean looking icons**](http://www.appsumo.com/iconcrafts/?rf=emst) 
 * [**Icon54 2100 icons**](https://icon54.com/view-icons/)
 
-####List of Awesome Swift/iOS/Sketch lists:
+#### List of Awesome Swift/iOS/Sketch lists:
 * [**Vsouza - A list of awesome iOS frameworks, libraries, tutorials, plugins, components and more**](https://github.com/vsouza/awesome-ios/blob/master/README.md)
 * [**Uraimo - A list of awesome Swift playgrounds**](https://github.com/uraimo/Awesome-Swift-Playgrounds) 
 * [**Index of things related to Sketch**](http://sketchapp.rocks) 
@@ -254,7 +254,7 @@ Hosting Websites:
 * [**List of free resources to help build your UI**](https://resourcecards.com) 
 * [**Swift toolbox is a community-supported catalog of iOS and OSX libraries written in the Swift Programming Language**](http://www.swifttoolbox.io) 
 
-####Others:
+#### Others:
 * [**Playing with stack views in playground**](https://github.com/dasdom/UIStackViewPlayground) 
 * [**Furniture demo app for iOS**](https://github.com/twitterdev/furni-ios) 
 * [**A simple Cordova plugin written in Swift**](https://github.com/semirturgay/CordovaSwiftPlugin) 
@@ -267,7 +267,7 @@ Hosting Websites:
 * [**Organize your code snippets with this app**](http://www.gistboxapp.com) 
 * [**Design and prototype customized UI with IBAnimatable**](https://github.com/JakeLin/IBAnimatable/) 
 
-####Plugins - Sketch:
+#### Plugins - Sketch:
 * [**Sketch plugin for creating designs with auto layout constraints**](https://github.com/matt-curtis/Fluid-for-Sketch) 
 * [**10 productivity plugins for Sketch**](https://www.sitepoint.com/best-plugins-for-sketch-app/) 
 * [**Allows you to easily copy styles from one layer to another**](https://github.com/ryanmclaughlin/styledrop) 
@@ -275,7 +275,7 @@ Hosting Websites:
 * [**It lets you discover/install plugins and color schemes for Xcode**](http://alcatraz.io/) 
 * [**Sketch plugin that allows creates circular graphics**](https://github.com/design4use/gb-sketch-segmentcircle) 
 
-####Plugins - Xcode:
+#### Plugins - Xcode:
 * [**Alcatraz package manager for Xcode to Install plugins**](https://github.com/alcatraz/Alcatraz)
 * [**Allows usage of SwiftLint from the edit menu for enforcing code style and conventions.**](https://github.com/ypresto/SwiftLintXcode)
 * [**Allows entry of code snippets using trigger strings.**](https://github.com/hunk3000/HKSnippet)
@@ -324,42 +324,42 @@ Hosting Websites:
 
 
 
-####Recording tools:
+#### Recording tools:
 * [**Record your screencast with this app**](http://recordit.co/?ref=producthunt) 
 
-####Security:
+#### Security:
 * [**A wrapper around the security framework for simple encryption/decryption operations**](https://github.com/henrinormak/Heimdall)
 
-####Server side swift:
+#### Server side swift:
 * [**Kitura**](https://developer.ibm.com/swift/kitura)
 * [**Vapor**](https://github.com/qutheory/vapor)
 * [**Zewo**](https://github.com/Zewo/Zewo)
 * [**Perfect**](http://perfect.org)
  
- ####Siri Kit:
+ #### Siri Kit:
 * [**Tutorial for Siri - Xcode Beta 8.1**](http://jamesonquave.com/blog/adding-siri-to-ios-10-apps-in-swift-tutorial/)
 
 
-####Shortcuts:
+#### Shortcuts:
 * [**Shortcut keys for Affinity.**](https://affinity.serif.com/blog/new-keyboard-shortcut-cheat-sheets/) 
 * [**Sketch shortcuts**](https://medium.com/sketch-app-sources/the-sketch-shortcuts-you-didn-t-know-about-910af95c75ed#.6ilopyb1c) 
 * [**Sketch shortcuts**](http://sketchshortcuts.com/) 
 
-####Swift changes:
+#### Swift changes:
 *  [**Follow the evolution of swift here**](https://github.com/apple/swift-evolution) 
 * [**Swift evolution by Erica Sadun**](http://ericasadun.com/2016/03/16/whats-up-in-swift-language-evolution/)
 
-####Swift extensions:
+#### Swift extensions:
 * [**Set of swift extensions**](https://cocoapods.org/pods/ExSwift)
 * [**A list of Swift extensions**](https://github.com/goktugyil/EZSwiftExtensions) 
 * [**A colouring utility that allows for easy gradients and picking colors based on their hex numbers**](https://github.com/hyperoslo/Hue) 
 
-####Technical Tests:
+#### Technical Tests:
 * [**30 min Test by codility**](https://codility.com/demo/take-sample-test/) 
 * [**30 min Test by hacker rank**](https://www.hackerrank.com/tests/sample) 
 * [**Coding challenges for different languages**](https://coderbyte.com/courses) 
 
-####Template for designs:
+#### Template for designs:
 * [**iOS 9 UI template for Sketch**](https://dribbble.com/shots/2107344-iOS-9-UI-Template-for-Sketch) 
 * [**200 device and mockups for sketch**](https://designcode.io/angle) 
 * [**80 printable wire frames**](http://uiuxassets.com/assets/printable-wireframe-templates/) 
@@ -367,14 +367,14 @@ Hosting Websites:
 * [**Device sketch sheets**](http://sketchsheets.com/) 
 * [**200+ iPhone 6 mockup design templates**](http://www.cssauthor.com/iphone-6-mockup-design-templates/) 
 
-####Utility:
+#### Utility:
 * [**Command line utility that generates documentation for swift and objective C**](https://github.com/realm/jazzy) 
 
-####VideoPlayer:
+#### VideoPlayer:
 * [**Customizable mobile player**](https://github.com/mobileplayer/mobileplayer-ios) 
 * [**Periscope style rewind and play**](https://github.com/gontovnik/Periscope-VideoViewController)  
 
-####Videos:
+#### Videos:
 * [**Apple TV tech talks**](https://developer.apple.com/videos/techtalks-apple-tv/) 
 * [**Using Touch Id**](https://www.youtube.com/watch?v=1aeQZwWx_J8) 
 * [**WWDC video, Mysteries of Auto Layout - runs only on Safari**](https://developer.apple.com/videos/play/wwdc2015-218/) 
@@ -384,7 +384,7 @@ Hosting Websites:
 * [**Playlist on UI/UX design**](https://www.youtube.com/watch?v=82_e4TOu13U&list=PL5eJgcQ87sgfTfa339_OSuAcdSyPSDSjJ) 
 * [**TDD in swift using Quick**](https://vimeo.com/102163542)
 
-####Xcode customization:   
+#### Xcode customization:   
 * [**Themes for Xcode**](https://github.com/hdoria/xcode-themes)
 * [**Backlight theme**](https://github.com/limejelly/Backlight-for-XCode) 
 * [**A popular Xcode theme**](https://github.com/ArtSabintsev/Solarized-Dark-for-Xcode/)                                                                                                                                                                              
